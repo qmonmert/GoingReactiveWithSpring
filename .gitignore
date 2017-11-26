@@ -1,0 +1,11 @@
+.DS_Store
+
+flux-flix-service/target
+flux-flix-service/flux-flix-service.iml
+flux-flix-service/.idea
+flux-flix-service/.mvn
+
+flux-flix-client/target
+flux-flix-client/flux-flix-client.iml
+flux-flix-client/.idea
+flux-flix-client/.mvn
